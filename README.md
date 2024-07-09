@@ -11,7 +11,7 @@ Sistema gestor de recibos, utilizando las tecnologías: en el backend node.js, e
 
 Página principal al iniciar la aplicaciónm
 
-#Login
+# Login
 ![](https://github.com/dev-code-jr/Gestor-Recibos-Frontend/blob/main/imgRecibos/login.png?raw=true)
 
 Login para poder ingresar a la aplicación
